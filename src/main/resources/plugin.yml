@@ -1,0 +1,4 @@
+name: RepairableAnvil
+version: '${project.version}'
+main: dev.neurs.repairableanvil.RepairableAnvil
+api-version: '1.20'
